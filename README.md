@@ -4,7 +4,7 @@ This code sample takes a sentence as a command line argument and uses the **fran
 
 ## Requirements
 
-*Node.js
+* Node.js
 
 ## Installation
 
