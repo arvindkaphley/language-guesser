@@ -11,7 +11,7 @@ This code sample takes a sentence as a command line argument and uses the **fran
 To install the required packages, navigate to the project directory and run the following command:
 
 ```
-npm init
+npm init -y
 ```
 
 ```
